@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Assignment1</title>
+  </head>
+
+
+  <body>
+
+    <h1><h1>
+        <p> Assignment 1 - Feb 8th 2021</p>
+
+        <h5>Hey! It looks like a paragraph, but there is a block/box here too.</h5>
+
+        <body>
+        <b><p><a href="http://www.google.com"> <font color="pink">This is a link to Google</a></b>
+
+        <p><img src="https://th.bing.com/th/id/R84252f171fd4fd9765d96eca44943914?rik=9WNSZwMgQlnBaw&riu=http%3a%2f%2fall-that-is-interesting.com%2fwordpress%2fwp-content%2fuploads%2f2013%2f01%2fincredible-photographs-new-york-brooklyn-bridge-sunset.jpg&ehk=1GVSBeNGWqs8MIPM23iwdH%2f4YtTKPbvg2jzHu9xYeE8%3d&risl=&pid=ImgRaw" height=150, width=100 </p>
+
+
+        <h6><i><font color="black">Email me by clicking on
+          <u><font color="blue">Jon Doe.</i></u>
+
+        <br><i><font color="black">Visit us at:</i>
+        <br><i><font color="blue">Disney World
+        <br><i><font color="black">Box 678, Disneyland
+        <br><i><font color="black">USA</h6></i>
+
+          <table>
+            <table border=2 style= background-color:#FFFF00>
+
+              <tr>
+         <h3>TABLE</h3>
+              </tr>
+
+      <th style=background-color:#FFFF00> </th>
+      <th style= background-color:#FFFF00> width</th>
+      <th style=background-color:#FFFF00>border</th>
+      <th style=background-color:#FFFF00>bg color</th>
+
+      <tr>
+      <td style=background-color:#FFB6C1> <b>Value1</b></td>
+      <td style=background-color:#FFB6C1> <center>="100"</center></td>
+      <td style=background-color:#FFB6C1><center>="2"</center></td>
+      <td style=background-color:#FFB6C1><center>="yellow"</td>
+      </tr>
+
+      <tr>
+      <td style=background-color:#FFB6C1> <b>Value2</b></td>
+      <td style=background-color:#FFB6C1><center>italic</center></td>
+      <td style=background-color:#FFB6C1><center>="2" or "2px"</center></td>
+      <td style=background-color:#FFB6C1><center>="lightpink"</td>
+      </tr>
+
+
+
+        </table>
+
+        </body>
