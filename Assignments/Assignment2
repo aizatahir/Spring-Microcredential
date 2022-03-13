@@ -1,0 +1,59 @@
+<html>
+
+<head>
+  <center>
+    <h6> <p><a href="https://aizatahir.github.io/SpringMicrocredential/"> <font color="blue">HOME</a>
+    <br><a href="https://aizatahir.github.io/SpringMicrocredential/"> <font color="blue">ABOUT</a>
+    <br><a href="https://aizatahir.github.io/SpringMicrocredential/"> <font color="blue">BOOK</a>
+    <br><a href="https://aizatahir.github.io/SpringMicrocredential/"> <font color="blue">CONTACT</a> </h6>
+  </center>
+
+
+<h4><font color=black>search for this website
+  <button type="button">search</button>
+
+
+    <p><table>
+      <table border=2 style= background-color:#FFFF00>
+
+
+      <th style=background-color:#FFFF00> </th>
+      <th style= background-color:#FFFF00>Withdraw</th>
+      <th style=background-color:#FFFF00>Credit</th>
+      <th style=background-color:#FFFF00>Balance</th>
+
+      <tr>
+      <td style=background-color:#FFB6C1> <b>September</b></td>
+      <td style=background-color:#FFB6C1> <center>$250</center></td>
+      <td style=background-color:#FFB6C1><center>$660</center></td>
+      <td style=background-color:#FFB6C1><center>$410</td>
+      </tr>
+
+      </table>
+
+      <p><img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/07/25/16/nyc.jpg" height=150, width=200 </p>
+
+      <style>
+        .bordered {
+          width: 400px;
+          height: 75px;
+          padding: 5px;
+          border: 1px solid red;
+          border-radius: 1px;
+        }
+      </style>
+
+      <div class="bordered">
+        <p> <font color = #FF69B4>This is the hotpink paragraph, font family is Arial.
+        <br> <font color = #FFC0CB>This is the pink paragraph, font family is Courier.
+          <br><font color = #FFB6C1>This is the light pink paragraph, font family is Corsiva. </p>
+
+      </div>
+
+      <button type="button">This is another button!</button>
+
+
+      <p><iframe src ="https://aizatahir.github.io/Assignment1/" width ="300" height ="200"></iframe> </p>
+
+
+</html>
