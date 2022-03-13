@@ -1,1 +1,92 @@
-// 
+
+
+<html>
+
+<style>
+*
+.box {
+  height: 400px;
+  width: 500px;
+  margin-bottom: 15px;
+  border: 3px solid #045FB4;
+}
+
+.red {
+  background-color: red;
+}
+
+.green {
+  background-color: green;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.bottom {
+  display: flex;
+  justify-content: center;
+}
+
+.ul {
+  list-style-type: none;
+  overflow: hidden;
+}
+
+.list {
+  display: inline;
+  padding: 20px;
+  font-size: 20px;
+}
+
+</style>
+
+
+ <body style="background-color:#CEE3F6;">
+
+<center>
+  <br><br><br>
+   <div class= box>
+     <br> <h1> <b> <font color="#045FB4"> contact us </b> <h1>
+
+
+       <p><h6> name:
+           <input type="text" id="name" name="name">
+
+      <br> email:
+           <input type="text" id="email" name="email">
+
+      <p> suggestions:
+      <p>
+         <textarea id="suggestions" name="suggestions" rows="4" cols="50">
+Leave a suggestion here.
+        </textarea>
+
+      <br> <input type="submit" value="Submit">
+
+</center>
+
+</body>
+
+<br><br>
+
+
+
+
+      <div class ="bottom">
+          <ul class ="ul">
+              <li class ="list"><a href ="project1.html">Home</a></li>  |
+              <li class ="list"><a href ="northernlights.html">The Northern Lights</a></li>  |
+              <li class ="list"><a href ="hiking.html">Hiking on Glaciers</a></li>  |
+              <li class ="list"><a href ="contactus.html">Contact Us</a></li>
+          </ul>
+      </div>
+
+      <font color="black">
+
+
+      <p style ="text-align: center"><b> 2021 @ Project 1 by Aiza Tahir </b></p>
+
+
+</html>
+
