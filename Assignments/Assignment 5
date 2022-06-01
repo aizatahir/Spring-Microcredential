@@ -1,0 +1,170 @@
+<html>
+
+<head>
+  <style>
+    .main_container{
+    border: 5px solid #B77B82;
+    height: 600px;
+}
+
+.main_container img {
+    width: 100%;
+    height: 100%;
+
+}
+
+.sub_container {
+    width: 25%;
+    margin-top: 1%;
+    margin-left: 15%;
+    border: 3px solid #C7636D;
+    height: 80%;
+    float: left;
+}
+
+
+.front_link_anchor {
+    border: 5px;
+    border-radius: 5%;
+    margin-left: 25%;
+    background-color: #B77B82;
+    color: white;
+    padding: 15px;
+    height: 50px;
+}
+
+.main_mod, .modal1, .modal2{
+    position: fixed;
+    top:0px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+    opacity:0;
+    pointer-events: none;
+}
+
+
+.modal1{
+    background-color: rgba(1, 50, 67, 0.5);
+}
+
+
+.modal2{
+    background-color: rgba(23, 163, 77, 0.5);
+}
+
+
+.modal1:target, .modal2:target {
+    opacity: 5;
+    pointer-events: all;
+}
+
+.geninfoblock{
+    position:relative;
+    width:60%;
+    margin-top:20%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 50%;
+
+
+}
+.infoblock1{
+    background-color: #C7636D;
+}
+
+.infoblock2{
+    background-color: #C7636D;
+}
+
+
+.infoblock1 h1, .infoblock2 h1{
+    position: absolute;
+    width: 100%;
+    margin-left: 0px;
+    margin-top: 0px;
+    height: 80px;
+    color: white;
+
+    background-color: #B77B82;
+}
+
+.infoblock1 p, .infoblock2 p{
+    position: absolute;
+    width: 90%;
+    margin-left: 50px;
+    margin-right: 20px;
+    height: 80px;
+    top: 24%;
+    background-color: #B77B82;
+
+}
+
+.infoblock1 img, .infoblock2 img{
+    position: absolute;
+    width: 30%;
+    height: 200px;
+    margin-left: 30%;
+    margin-top: 30%;
+}
+
+
+.infoblock1 a {
+    background-color: purple;
+    position: absolute;
+    bottom: 40%;
+    left:80%;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    border: 2px solid black;
+}
+
+
+
+.infoblock2 a {
+    background-color: white;
+    position: absolute;
+    top:0px;
+    right: 0px;
+    text-decoration: none;
+    font-size: 5px;
+    width: 20px;
+    height: 25px;
+    color: black;
+    border: 2px solid black;
+    font-size: 20px;
+    text-align: center;
+}
+
+</style>
+</head>
+
+
+
+<body>
+
+
+    <div class ="main_container">
+        <div class ="sub_container">
+        <img src ="https://i.pinimg.com/originals/22/05/c9/2205c9829f8c25b3d710ab6555de777a.jpg">
+        <a href="#open1" class ="front_link_anchor">Open Modal Link</a>
+        </div>
+
+        <div class ="sub_container">
+        <img src ="https://thestingyvegan.com/wp-content/uploads/2019/01/vegan-tvp-lasagna-1-of-1.jpg" alt ="">
+        <a href ="#open2" class ="front_link_anchor">Open Modal Link II</a>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+
+    </body>
+
+    </html>
